@@ -174,9 +174,6 @@ These are the specific phenomena that made this task hard, regardless of model c
 ## Authors
 
 - **Mahesh Babu Vishnumolakala** — Lovely Professional University, Phagwara, India
-- **Pavan Venkat Kumar Doddavarapu** — Lovely Professional University, Phagwara, India
-- **Sasivardhan Mangira** — Lovely Professional University, Phagwara, India
-- **Enjula Uchoi** — Lovely Professional University, Phagwara, India
 
 ---
 
