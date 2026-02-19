@@ -1,0 +1,5 @@
+model,num_train_epochs,per_device_train_batch_size,gradient_accumulation_steps,learning_rate,test_eval_loss,test_eval_precision,test_eval_recall,test_eval_f1,test_eval_accuracy,test_eval_runtime,test_eval_samples_per_second,test_eval_steps_per_second,test_epoch
+xlm-roberta-base,3,4,8,5.00E-05,0.129762784,0.870705578,0.879477612,0.875069612,0.964394441,0.9842,430.795,53.849,3
+bert-base-multilingual-cased,3,4,8,5.00E-05,0.141638368,0.856824098,0.859380828,0.858100559,0.960978836,1.0397,407.804,50.976,3
+distilbert/distilbert-base-multilingual-cased,3,4,8,5.00E-05,0.142789826,0.841169937,0.847444983,0.844295801,0.958333333,0.6234,680.088,85.011,3
+microsoft/mdeberta-v3-base,3,4,8,5.00E-05,0.125189275,0.878844016,0.884414616,0.881620517,0.966887417,1.5643,271.045,33.881,3
